@@ -6,7 +6,7 @@
     "yarnmerlin": "yarnmerlin"
   },
   "dependencies": {
-    "@opam-alpha/merlin": "^ 2.5.0"
+    "@opam-alpha/merlin": "^ 2.5.0",
     "dependencyEnv": "https://github.com/reasonml/dependency-env"
   },
   "keywords": [
