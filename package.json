@@ -1,0 +1,23 @@
+{
+  "name": "yarnmerlin",
+  "version": "0.0.0",
+  "description": "provide a wrapper of ocaml merlin that's environment aware",
+  "bin" : {
+    "yarnmerlin": "yarnmerlin"
+  },
+  "dependencies": {
+    "@opam-alpha/merlin": "^ 2.5.0"
+    "dependencyEnv": "https://github.com/reasonml/dependency-env"
+  },
+  "keywords": [
+    "depenency",
+    "environment",
+    "variables",
+    "env"
+  ],
+  "author": "yunxing",
+  "license": "MIT",
+  "engines" : {
+    "npm" : ">=3.10.0"
+  }
+}
