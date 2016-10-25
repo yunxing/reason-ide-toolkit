@@ -1,20 +1,16 @@
 {
-  "name": "yarnmerlin",
+  "name": "reason-ide-toolkit",
   "version": "0.0.0",
-  "description": "provide a wrapper of ocaml merlin that's environment aware",
+  "description": "IDE toolkit for reason",
   "bin" : {
     "yarnmerlin": "yarnmerlin"
   },
   "dependencies": {
-    "@opam-alpha/merlin": "^ 2.5.0",
+    "@opam-alpha/merlin": "*",
+    "reason": "*",
+    "tuareg": "yunxing/tuareg",
     "dependencyEnv": "https://github.com/reasonml/dependency-env"
   },
-  "keywords": [
-    "depenency",
-    "environment",
-    "variables",
-    "env"
-  ],
   "author": "yunxing",
   "license": "MIT",
   "engines" : {
