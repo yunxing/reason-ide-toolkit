@@ -7,7 +7,6 @@
   },
   "dependencies": {
     "@opam-alpha/merlin": "*",
-    "reason": "*",
     "tuareg": "yunxing/tuareg",
     "dependencyEnv": "https://github.com/reasonml/dependency-env"
   },
