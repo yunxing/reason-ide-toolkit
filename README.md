@@ -1,2 +1,2 @@
-# yarnmerlin
-A wrapper of ocaml merlin with [dependencyEnv](https://github.com/reasonml/dependency-env)
+# reason-ide-toolkit
+A collection of projects related to reason IDE to be included in package.json
