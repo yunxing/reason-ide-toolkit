@@ -8,7 +8,7 @@
   "dependencies": {
     "@opam-alpha/merlin": "*",
     "tuareg": "yunxing/tuareg",
-    "dependencyEnv": "https://github.com/reasonml/dependency-env"
+    "dependency-env": "https://github.com/reasonml/dependency-env"
   },
   "author": "yunxing",
   "license": "MIT",
