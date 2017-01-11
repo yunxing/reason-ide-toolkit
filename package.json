@@ -1,6 +1,6 @@
 {
   "name": "reason-ide-toolkit",
-  "version": "1.2.0",
+  "version": "1.4.0",
   "description": "IDE toolkit for reason",
   "bin" : {
     "yarnmerlin": "yarnmerlin"
@@ -8,7 +8,7 @@
   "dependencies": {
     "@opam-alpha/merlin": "*",
     "tuareg": "yunxing/tuareg",
-    "dependency-env": "https://github.com/reasonml/dependency-env"
+    "dependency-env": "*"
   },
   "author": "yunxing",
   "license": "MIT",
